@@ -117,7 +117,7 @@ Updating is like installing the list. Simply make sure your paths are the same a
 Removing the Modlist
 Simply delete the folder, and you have uninstalled it.
 
-Credits and Thanks
-Biggie Boss for creating awesome videos and teaching me how to mod
-Halgari and everyone on the WJ Team - Wabbajack is awesome and so are you.
+**Credits and Thanks**
+**Biggie Boss** for creating awesome videos and teaching me how to mod
+Everyone on the WJ Team - Wabbajack is awesome and so are you.
 All of the amazing mod authors whose work made this modlist possible.
