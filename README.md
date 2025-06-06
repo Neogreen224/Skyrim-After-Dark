@@ -56,7 +56,7 @@ Downloading and Installing Skyrim After Dark
 Downloading and installing Skyrim After Dark can take a while depending on your internet connection and computer. To install Skyrim After Dark, complete the following steps.
 
 Open Wabbajack and click on browse modlists.
-Press the download button on NGVO and wait for it to download.
+Press the download button on Skyrim After Dark and wait for it to download.
 Set the installation folder to be somewhere like C:\Skyrim After Dark. Do not install it to your desktop or downloads folder.
 The download location does not need to be on a SSD but it makes installing a bit faster.
 Press the play button to begin.
@@ -90,10 +90,10 @@ NOTE: Screenshots save to Overwrite\Stock Game.
 Starting up the list
 Open the installation folder and double-click on the program called ModOrganizer.exe.
 
-Make sure the dropdown box on the right is set to NGVO and press the Run button.
+Make sure the dropdown box on the right is set to Skyrim After Dark and press the Run button.
 
 In-game MCM options
-NGVO has no required MCM options to be selected; however, you can load the smoothcam preset if you wish to do so.
+Skyrim After Dark has no required MCM options to be selected; however, you can load the smoothcam preset if you wish to do so.
 
 You are welcome to change any others to achieve your desired setup.
 
