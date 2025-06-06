@@ -39,12 +39,6 @@ Skyrim After Dark requires a mid-tier modern system to run to its fullest potent
 | GPU  | RTX 4070 or better/equivalent  |
 | Space required:  |  ~420GB Total  |
 
-**Component	Recommended for 1440p**
-CPU	12th Generation i7 or better/equivalent
-Ram	32GB DDR4 Ram + 40GB Pagefile
-Storage	M.2 SSD
-GPU	RTX 4070 or better/equivalent
-Space required: ~150GB Download Size ~100GB install Size ~250GB Total
 
 See how to setup a page file here: https://www.tomshardware.com/news/how-to-manage-virtual-memory-pagefile-windows-10,36929.html
 
