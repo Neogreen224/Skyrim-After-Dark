@@ -22,11 +22,22 @@ Running the list from Hard Disk Drives or external drives is STRONGLY ADVISED AG
 Recommended System Requirements
 Skyrim After Dark requires a mid-tier modern system to run to its fullest potential. The recommended specs given below are based on utilizing the ENB in the list. For community shaders, you can subtract a little bit from them. Users have reported being able to run on hardware slightly lower than this, however your mileage may vary.
 
-**Component	Recommended for 1080p**
-CPU	10th Generation i5 or better/equivalent
-Ram	16GB DDR4 Ram + 40GB Pagefile
-Storage	SATA SSD or higher
-GPU	RTX 3060 or better/equivalent
+
+| Component  | Recommended for 1080p|
+| ------------- | ------------- |
+| CPU  | 10th Generation i5 or better/equivalent |
+| Ram  | 16GB DDR4 Ram + 40GB Pagefile  |
+| Storage  | SATA SSD or higher  |
+| GPU  | RTX 3060 or better/equivalent  |
+
+
+| Component  | Recommended for 1440p|
+| ------------- | ------------- |
+| CPU  | 12th Generation i7 or better/equivalent |
+| Ram  | 32GB DDR4 Ram + 40GB Pagefile  |
+| Storage  | M.2 SSD  |
+| GPU  | RTX 4070 or better/equivalent  |
+| Space required:  |  ~420GB Total  |
 
 **Component	Recommended for 1440p**
 CPU	12th Generation i7 or better/equivalent
