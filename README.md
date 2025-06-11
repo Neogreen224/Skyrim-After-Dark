@@ -43,6 +43,8 @@ See how to setup a page file here: https://www.tomshardware.com/news/how-to-mana
 
 ⚠️ NOTE: AMD RX 580 and older cards are not supported. ⚠️
 
+⚠️ NOTE: MODLIST IS NOT OPTIMIZED FOR 4K GAMEPLAY ⚠️
+
 Installation
 Installing Skyrim After Dark is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the updating section.
 
