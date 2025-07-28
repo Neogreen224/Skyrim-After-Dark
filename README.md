@@ -63,6 +63,9 @@ Wabbajack Installation
 Installing Wabbajack
 Once you have completed pre-installation, download the latest version of Wabbajack and place it in a folder such as C:\Games\Wabbajack. Do not place it in program files, on your desktop or in your downloads folder. I recommend placing it on an SSD as it will work quicker on there.
 
+⚠️ NOTE: Wabbajack has issues mirroring some Lovers Lab mods, if you have issues just click X to close out of the manual installs to skip to the nexus downloads, afterwards it will say install failed and a link will show in bottom left to Open Archive, follow the 
+URLs and place the correct versions in your downloads folder you decided to place it during the wabbjack install ⚠️
+
 ⚠️ NOTE: Skyrim After Dark will always require the latest version of Wabbajack UNLESS IT IS SPECIFICALLY STATED HERE. ⚠️
 
 Downloading and Installing Skyrim After Dark
