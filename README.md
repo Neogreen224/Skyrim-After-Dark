@@ -49,7 +49,10 @@ Installation
 Installing Skyrim After Dark is relatively easy and, if you have Nexus Premium, will be a simple waiting game. If you are updating the modlist, you can safely skip to the updating section.
 
 Pre-Installation
-Prior to installing Skyrim After Dark, please complete the following steps.
+Prior to installing Skyrim After Dark, please complete the following steps. 
+
+Baka ABC is not apart of the wabbajack compile due to it having issues recognizing the correct version even if its in your downloads folder, go to the skyrim after dark wiki to get a link to Baka ABC and install it into your Mo2 manually
+If you are not sure how to do this, ask for support in the discord https://github.com/Neogreen224/Skyrim-After-Dark/wiki/Manual-Download-Links
 
 Install Visual C++ x64 & .Net Runtime v5 desktop x64
 Change Skyrim so it does not automatically update.
