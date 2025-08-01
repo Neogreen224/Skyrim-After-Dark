@@ -57,6 +57,8 @@ Prior to installing Skyrim After Dark, please complete the following steps.
 ⚠️ Baka ABC is not apart of the wabbajack compile due to it having issues recognizing the correct version even if its in your downloads folder, go to the skyrim after dark wiki to get a link to Baka ABC and install it into your Mo2 manually
 If you are not sure how to do this, ask for support in the discord https://github.com/Neogreen224/Skyrim-After-Dark/wiki/Manual-Download-Links, Failure to do this will result in creatures not having animated penis.
 
+Install Creation Kit on Steam
+
 Install Visual C++ x64 & .Net Runtime v5 desktop x64
 Change Skyrim so it does not automatically update.
 Make sure your Skyrim Steam installation is updated to the latest version (1.6.1170) and set to the English language. I HIGHLY recommend not installing Steam, Skyrim or any modlist into your Program Files.
