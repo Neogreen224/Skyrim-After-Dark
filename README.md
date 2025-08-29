@@ -10,7 +10,7 @@ Skyrim After Darks goal is to be the best graphical looking NSFW experience poss
 This modlist will also contain tons of new quests, every armor pack possible, weapons, tons of customization options, and meant to be the best NSFW experience with tons of content to enjoy. 
 
 It is advised you join the discord so if you run into or issues or need help you can get it promptly
-https://discord.gg/HQmg9nSJ4R
+[https://discord.gg/HQmg9nSJ4R](https://discord.gg/X27czYxrXc)
 
 System Requirements
 
